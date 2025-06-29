@@ -1,0 +1,93 @@
+Date,Category,Description,Amount,Payment Method
+2025-01-02,Groceries,Supermarket run at Carrefour,32.50,Debit Card
+2025-01-03,Utilities,Electricity bill,45.75,Bank Transfer
+2025-01-03,Transportation,Matatu fare to campus,1.00,Cash
+2025-01-04,Entertainment,Netflix subscription,10.99,Credit Card
+2025-01-05,Food,Street food lunch,3.20,Cash
+2025-01-06,Groceries,Fruits and vegetables,7.80,Cash
+2025-01-06,Health,Pharmacy - painkillers,5.30,Cash
+2025-01-07,Education,Online course subscription,29.99,Debit Card
+2025-01-08,Transportation,Boda Boda fare,1.50,M-Pesa
+2025-01-09,Bills,Water bill,15.60,Bank Transfer
+2025-01-10,Shopping,New jeans,22.90,Debit Card
+2025-01-11,Food,Coffee date with friend,4.50,Cash
+2025-01-12,Groceries,Weekly bulk groceries,42.00,Debit Card
+2025-01-13,Entertainment,YouTube Premium,5.49,Credit Card
+2025-01-14,Food,Lunch at Java,9.90,Debit Card
+2025-01-15,Transportation,Uber to event,6.00,M-Pesa
+2025-01-16,Health,Doctor consultation,20.00,Bank Transfer
+2025-01-17,Education,Exam registration fee,60.00,Bank Transfer
+2025-01-18,Shopping,Phone accessories,8.75,M-Pesa
+2025-01-19,Food,Pizza night,12.99,Debit Card
+2025-01-20,Groceries,Supermarket snacks,6.30,Cash
+2025-01-21,Utilities,Internet subscription,30.00,Bank Transfer
+2025-01-22,Entertainment,Movie ticket,3.99,M-Pesa
+2025-01-23,Food,Campus cafeteria lunch,2.00,Cash
+2025-01-24,Shopping,New shoes,35.00,Debit Card
+2025-01-25,Transportation,Fuel top-up,10.00,Debit Card
+2025-01-26,Groceries,Mini grocery run,12.50,Cash
+2025-01-27,Health,Skin cream,6.80,Cash
+2025-01-28,Bills,Phone bill,8.90,M-Pesa
+2025-01-29,Education,Stationery and printing,5.70,Cash
+2025-01-30,Entertainment,Spotify subscription,4.99,Credit Card
+2025-01-31,Food,Burger & fries,6.00,Cash
+2025-02-01,Groceries,Weekend grocery shopping,37.25,Debit Card
+2025-02-02,Transportation,Matatu fare to church,1.00,Cash
+2025-02-03,Health,Vitamin supplements,9.20,M-Pesa
+2025-02-04,Food,Evening snack,1.75,Cash
+2025-02-05,Shopping,Clothing from thrift store,10.00,Cash
+2025-02-06,Utilities,Gas refill,18.00,Cash
+2025-02-07,Entertainment,Mobile game purchase,2.99,Credit Card
+2025-02-08,Groceries,Dairy and bread,5.60,Cash
+2025-02-09,Food,Takeaway dinner,8.50,M-Pesa
+2025-02-10,Transportation,Boda Boda fare,1.20,M-Pesa
+2025-02-11,Health,Eye check-up,25.00,Debit Card
+2025-02-12,Education,Textbook purchase,18.99,Bank Transfer
+2025-02-13,Food,Campus canteen lunch,2.50,Cash
+2025-02-14,Entertainment,Valentine’s date movie,7.00,Debit Card
+2025-02-15,Groceries,Fresh produce,9.40,Cash
+2025-02-16,Utilities,Electricity tokens,12.00,M-Pesa
+2025-02-17,Shopping,Laptop sleeve,13.00,Debit Card
+2025-02-18,Transportation,Uber ride to JKUAT,5.80,M-Pesa
+2025-02-19,Bills,Internet renewal,30.00,Bank Transfer
+2025-02-20,Health,Sunscreen,7.50,Cash
+2025-02-21,Education,Printing notes,2.20,Cash
+2025-02-22,Food,Weekend breakfast out,5.00,Cash
+2025-02-23,Groceries,Supermarket trip,34.10,Debit Card
+2025-02-24,Entertainment,Showmax subscription,7.99,Credit Card
+2025-02-25,Shopping,Gift for friend,15.00,Cash
+2025-02-26,Transportation,Fuel refill,12.00,Debit Card
+2025-02-27,Health,First aid supplies,4.50,M-Pesa
+2025-02-28,Food,Coffee and snack,3.25,Cash
+2025-03-01,Groceries,Milk and eggs,4.80,Cash
+2025-03-02,Bills,Water service fee,14.60,M-Pesa
+2025-03-03,Education,Online tutorial notes,3.00,M-Pesa
+2025-03-04,Entertainment,Game night snacks,6.75,Cash
+2025-03-05,Shopping,Earphones replacement,11.25,Debit Card
+2025-03-06,Food,Quick lunch,2.70,Cash
+2025-03-07,Transportation,Matatu to Nairobi CBD,1.00,Cash
+2025-03-08,Health,Sanitary products,4.99,Cash
+2025-03-09,Utilities,Gas refill,18.00,Cash
+2025-03-10,Groceries,Fresh market trip,16.90,Cash
+2025-03-11,Education,Notebook & pens,3.40,Cash
+2025-03-12,Entertainment,Concert ticket,25.00,Debit Card
+2025-03-13,Food,Campus snack run,1.50,Cash
+2025-03-14,Bills,Phone airtime,2.00,M-Pesa
+2025-03-15,Shopping,Sling bag,18.99,Debit Card
+2025-03-16,Health,Consultation fee,30.00,Bank Transfer
+2025-03-17,Transportation,Boda Boda to library,1.20,Cash
+2025-03-18,Groceries,Weekly groceries,38.75,Debit Card
+2025-03-19,Entertainment,YouTube donation,3.00,Credit Card
+2025-03-20,Food,Pastries for tea,2.60,Cash
+2025-03-21,Utilities,Electricity bill,50.00,M-Pesa
+2025-03-22,Shopping,Sweatpants,22.00,Debit Card
+2025-03-23,Education,Library penalty fee,1.00,Cash
+2025-03-24,Health,Facial cleanser,7.40,Cash
+2025-03-25,Transportation,Matatu home,1.00,Cash
+2025-03-26,Food,Lunch with classmates,6.20,M-Pesa
+2025-03-27,Groceries,Supermarket refill,33.00,Debit Card
+2025-03-28,Bills,Internet service,30.00,Bank Transfer
+2025-03-29,Entertainment,Mobile app upgrade,4.99,Credit Card
+2025-03-30,Food,Fried rice dinner,5.30,Cash
+2025-03-31,Transportation,Uber to Westlands,7.50,M-Pesa
+
