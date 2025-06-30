@@ -7,6 +7,7 @@ import os
 st.set_page_config(layout="wide")
 st.title("📈 Expense Analysis Dashboard")
 st.text("Changing budgeting one cell value at a time.")
+st.divider()
 
 # Load data
 path = "data/expenses.csv"
@@ -17,6 +18,7 @@ if not os.path.exists(path):
 df = pd.read_csv(path)
 st.write("Data Preview:")
 st.dataframe(df.head())
+st.divider()
 
 df['Date'] = pd.to_datetime(df['Date'])
 df['Month'] = df['Date'].dt.to_period('M')
@@ -55,12 +57,14 @@ if st.button("Generate Chart", type='primary'):
         st.bar_chart(chart_data.rename(columns={'Date': 'index'}).set_index('index'))
     elif chart_type == "Line":
         st.line_chart(chart_data.rename(columns={'Date': 'index'}).set_index('index'))
+st.divider()
 
 # Monthly Summary
 st.subheader("📅 Monthly Summary by Category")
 monthly_summary = df.groupby(['Month', 'Category'])['Amount'].sum().unstack().fillna(0)
 st.dataframe(monthly_summary)
 st.bar_chart(monthly_summary)
+st.divider()
 
 # Trends
 st.subheader("📊 Spending Trends")

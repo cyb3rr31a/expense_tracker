@@ -7,6 +7,7 @@ st.title("📂 Upload & Add Expenses")
 
 path = "data/expenses.csv"
 os.makedirs("data", exist_ok=True)
+st.divider()
 
 # Load data
 if os.path.exists(path):
@@ -22,6 +23,7 @@ if uploaded_file:
     df = pd.concat([df, uploaded_df], ignore_index=True)
     df.to_csv(path, index=False)
     st.success("✅ File uploaded and merged!")
+st.divider()
 
 # Manual input
 st.subheader("➕ Manually Add an Expense")
@@ -44,6 +46,7 @@ if submitted:
     df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
     df.to_csv(path, index=False)
     st.success("✅ Expense added!")
+st.divider()
 
 # Preview data
 if not df.empty:

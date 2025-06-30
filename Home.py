@@ -1,9 +1,5 @@
 import streamlit as st
 
-# Sidebar header
-st.sidebar.title("🧭 Navigation")
-st.sidebar.markdown("use the menu below to switch pages")
-
 st.set_page_config(page_title="Expense Tracker", layout="centered")
 
 st.title("💰 Personal Expense Tracker")
@@ -17,6 +13,3 @@ This app helps you:
 👈 Use the sidebar to navigate between pages.
 """)
 
-st.sidebar.image("https://icons.getbootstrap.com/icons/piggy-bank/", width=120)
-st.sidebar.markdown("### 💼 Expense Tracker Pro")
-st.sidebar.markdown("Track, analyze, and grow.")
