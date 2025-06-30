@@ -16,3 +16,7 @@ This app helps you:
 
 👈 Use the sidebar to navigate between pages.
 """)
+
+st.sidebar.image("https://icons.getbootstrap.com/icons/piggy-bank/", width=120)
+st.sidebar.markdown("### 💼 Expense Tracker Pro")
+st.sidebar.markdown("Track, analyze, and grow.")
